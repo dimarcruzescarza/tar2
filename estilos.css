@@ -1,0 +1,83 @@
+.principal
+{
+    background-color: fuchsia;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    
+}
+
+.caja
+{
+    background-color: black;
+    width: 400px;
+    height: 600px;
+    margin: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.c1
+{
+    width: 170px;
+    height: 255px;
+    background-color: red;
+    margin: 15px;
+}
+
+.c1-1
+{
+    width: 170px;
+    height: 255px;
+    background-color: red;
+    margin: 15px;
+}
+
+
+.c2
+{
+    width: 100px;
+    height: 105px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 15px;
+}  
+
+.c3
+{
+    width: 400px;
+    height: 105px;
+    background-color: green;
+    margin: 15px;
+}
+
+.c34
+{
+    width: 170px;
+    height: 105px;
+    background-color: green;
+    margin: 15px;
+}
+
+.c4
+{
+    width: 400px;
+    height: 105px;
+    background-color: green;
+    margin: 15px;
+}
+
+.c45
+{
+    width: 170px;
+    height: 105px;
+    background-color: green;
+    margin: 15px;
+}
+
+
+
